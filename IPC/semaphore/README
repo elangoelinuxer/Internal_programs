@@ -1,0 +1,3 @@
+->The following two programs tries to use the shared resource "file1" without corrupting
+->compile and run the both programs from different terminals and check it out its working
+->plz go through the man pages for the semctl , semop, semget api's
